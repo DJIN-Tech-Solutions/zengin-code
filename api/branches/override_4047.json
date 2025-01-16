@@ -3,7 +3,7 @@
     "code": "025",
     "name": "飯坂支店",
     "kana": "イイザカ",
-    "hiragana": "いいざか",
+    "hira": "いいざか",
     "hankana": "ｲｲｻﾞｶ",
     "roma": "iizaka"
   },
@@ -11,7 +11,7 @@
     "code": "042",
     "name": "保原支店",
     "kana": "ホバラ",
-    "hiragana": "ほばら",
+    "hira": "ほばら",
     "hankana": "ﾎﾊﾞﾗ",
     "roma": "hobara"
   },
@@ -19,7 +19,7 @@
     "code": "047",
     "name": "桑折支店",
     "kana": "コオリ",
-    "hiragana": "こおり",
+    "hira": "こおり",
     "hankana": "ｺｵﾘ",
     "roma": "koori"
   },
@@ -27,7 +27,7 @@
     "code": "051",
     "name": "国見支店",
     "kana": "クニミ",
-    "hiragana": "くにみ",
+    "hira": "くにみ",
     "hankana": "ｸﾆﾐ",
     "roma": "kunimi"
   },
@@ -35,7 +35,7 @@
     "code": "056",
     "name": "伊達支店",
     "kana": "ダテ",
-    "hiragana": "だて",
+    "hira": "だて",
     "hankana": "ﾀﾞﾃ",
     "roma": "date"
   },
@@ -43,7 +43,7 @@
     "code": "058",
     "name": "霊山掛田支店",
     "kana": "リヨウゼンカケダ",
-    "hiragana": "りようぜんかけだ",
+    "hira": "りようぜんかけだ",
     "hankana": "ﾘﾖｳｾﾞﾝｶｹﾀﾞ",
     "roma": "riyouzenkakeda"
   },
@@ -51,7 +51,7 @@
     "code": "082",
     "name": "鹿島支店",
     "kana": "カシマ",
-    "hiragana": "かしま",
+    "hira": "かしま",
     "hankana": "ｶｼﾏ",
     "roma": "kashima"
   },
@@ -59,7 +59,7 @@
     "code": "084",
     "name": "新地支店",
     "kana": "シンチ",
-    "hiragana": "しんち",
+    "hira": "しんち",
     "hankana": "ｼﾝﾁ",
     "roma": "shinchi"
   },
@@ -67,7 +67,7 @@
     "code": "085",
     "name": "相馬中村支店",
     "kana": "ソウマナカムラ",
-    "hiragana": "そうまなかむら",
+    "hira": "そうまなかむら",
     "hankana": "ｿｳﾏﾅｶﾑﾗ",
     "roma": "soumanakamura"
   },
@@ -75,7 +75,7 @@
     "code": "087",
     "name": "原町支店",
     "kana": "ハラマチ",
-    "hiragana": "はらまち",
+    "hira": "はらまち",
     "hankana": "ﾊﾗﾏﾁ",
     "roma": "haramachi"
   },
@@ -83,7 +83,7 @@
     "code": "089",
     "name": "小高支店",
     "kana": "オダカ",
-    "hiragana": "おだか",
+    "hira": "おだか",
     "hankana": "ｵﾀﾞｶ",
     "roma": "odaka"
   },
@@ -91,7 +91,7 @@
     "code": "091",
     "name": "飯舘支店",
     "kana": "イイタテ",
-    "hiragana": "いいたて",
+    "hira": "いいたて",
     "hankana": "ｲｲﾀﾃ",
     "roma": "iitate"
   }

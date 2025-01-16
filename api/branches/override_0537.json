@@ -3,7 +3,7 @@
     "code": "110",
     "name": "春江中央支店",
     "kana": "ハルエチユウオウ",
-    "hiragana": "はるえちゆうおう",
+    "hira": "はるえちゆうおう",
     "hankana": "ﾊﾙｴﾁﾕｳｵｳ",
     "roma": "haruechiyuuou"
   },
@@ -11,7 +11,7 @@
     "code": "120",
     "name": "三国中央支店",
     "kana": "ミクニチユウオウ",
-    "hiragana": "みくにちゆうおう",
+    "hira": "みくにちゆうおう",
     "hankana": "ﾐｸﾆﾁﾕｳｵｳ",
     "roma": "mikunichiyuuou"
   },
@@ -19,7 +19,7 @@
     "code": "130",
     "name": "金津中央支店",
     "kana": "カナヅチユウオウ",
-    "hiragana": "かなづちゆうおう",
+    "hira": "かなづちゆうおう",
     "hankana": "ｶﾅﾂﾞﾁﾕｳｵｳ",
     "roma": "kanazuchiyuuou"
   },
@@ -27,7 +27,7 @@
     "code": "140",
     "name": "丸岡中央支店",
     "kana": "マルオカチユウオウ",
-    "hiragana": "まるおかちゆうおう",
+    "hira": "まるおかちゆうおう",
     "hankana": "ﾏﾙｵｶﾁﾕｳｵｳ",
     "roma": "maruokachiyuuou"
   },
@@ -35,7 +35,7 @@
     "code": "150",
     "name": "松岡中央支店",
     "kana": "マツオカチユウオウ",
-    "hiragana": "まつおかちゆうおう",
+    "hira": "まつおかちゆうおう",
     "hankana": "ﾏﾂｵｶﾁﾕｳｵｳ",
     "roma": "matsuokachiyuuou"
   },
@@ -43,7 +43,7 @@
     "code": "160",
     "name": "勝山中央支店",
     "kana": "カツヤマチユウオウ",
-    "hiragana": "かつやまちゆうおう",
+    "hira": "かつやまちゆうおう",
     "hankana": "ｶﾂﾔﾏﾁﾕｳｵｳ",
     "roma": "katsuyamachiyuuou"
   },
@@ -51,7 +51,7 @@
     "code": "170",
     "name": "大野中央支店",
     "kana": "オオノチユウオウ",
-    "hiragana": "おおのちゆうおう",
+    "hira": "おおのちゆうおう",
     "hankana": "ｵｵﾉﾁﾕｳｵｳ",
     "roma": "oonochiyuuou"
   },
@@ -59,7 +59,7 @@
     "code": "210",
     "name": "鯖江中央支店",
     "kana": "サバエチユウオウ",
-    "hiragana": "さばえちゆうおう",
+    "hira": "さばえちゆうおう",
     "hankana": "ｻﾊﾞｴﾁﾕｳｵｳ",
     "roma": "sabaechiyuuou"
   },
@@ -67,7 +67,7 @@
     "code": "230",
     "name": "武生中央支店",
     "kana": "タケフチユウオウ",
-    "hiragana": "たけふちゆうおう",
+    "hira": "たけふちゆうおう",
     "hankana": "ﾀｹﾌﾁﾕｳｵｳ",
     "roma": "takefuchiyuuou"
   },
@@ -75,7 +75,7 @@
     "code": "240",
     "name": "越前町中央支店",
     "kana": "エチゼンチヨウチユウオウ",
-    "hiragana": "えちぜんちようちゆうおう",
+    "hira": "えちぜんちようちゆうおう",
     "hankana": "ｴﾁｾﾞﾝﾁﾖｳﾁﾕｳｵｳ",
     "roma": "echizenchiyouchiyuuou"
   },
@@ -83,7 +83,7 @@
     "code": "310",
     "name": "敦賀中央支店",
     "kana": "ツルガチユウオウ",
-    "hiragana": "つるがちゆうおう",
+    "hira": "つるがちゆうおう",
     "hankana": "ﾂﾙｶﾞﾁﾕｳｵｳ",
     "roma": "tsurugachiyuuou"
   },
@@ -91,7 +91,7 @@
     "code": "320",
     "name": "美浜中央支店",
     "kana": "ミハマチユウオウ",
-    "hiragana": "みはまちゆうおう",
+    "hira": "みはまちゆうおう",
     "hankana": "ﾐﾊﾏﾁﾕｳｵｳ",
     "roma": "mihamachiyuuou"
   },
@@ -99,7 +99,7 @@
     "code": "350",
     "name": "小浜中央支店",
     "kana": "オバマチユウオウ",
-    "hiragana": "おばまちゆうおう",
+    "hira": "おばまちゆうおう",
     "hankana": "ｵﾊﾞﾏﾁﾕｳｵｳ",
     "roma": "obamachiyuuou"
   },
@@ -107,7 +107,7 @@
     "code": "360",
     "name": "高浜中央支店",
     "kana": "タカハマチユウオウ",
-    "hiragana": "たかはまちゆうおう",
+    "hira": "たかはまちゆうおう",
     "hankana": "ﾀｶﾊﾏﾁﾕｳｵｳ",
     "roma": "takahamachiyuuou"
   },
@@ -115,7 +115,7 @@
     "code": "410",
     "name": "小松中央支店",
     "kana": "コマツチユウオウ",
-    "hiragana": "こまつちゆうおう",
+    "hira": "こまつちゆうおう",
     "hankana": "ｺﾏﾂﾁﾕｳｵｳ",
     "roma": "komatsuchiyuuou"
   },
@@ -123,7 +123,7 @@
     "code": "510",
     "name": "舞鶴中央支店",
     "kana": "マイヅルチユウオウ",
-    "hiragana": "まいづるちゆうおう",
+    "hira": "まいづるちゆうおう",
     "hankana": "ﾏｲﾂﾞﾙﾁﾕｳｵｳ",
     "roma": "maizuruchiyuuou"
   },
@@ -131,7 +131,7 @@
     "code": "530",
     "name": "京都中央支店",
     "kana": "キヨウトチユウオウ",
-    "hiragana": "きようとちゆうおう",
+    "hira": "きようとちゆうおう",
     "hankana": "ｷﾖｳﾄﾁﾕｳｵｳ",
     "roma": "kiyoutochiyuuou"
   },
@@ -139,7 +139,7 @@
     "code": "002",
     "name": "第二営業部",
     "kana": "ダイニエイギヨウブ",
-    "hiragana": "だいにえいぎようぶ",
+    "hira": "だいにえいぎようぶ",
     "hankana": "ﾀﾞｲﾆｴｲｷﾞﾖｳﾌﾞ",
     "roma": "dainieigiyoubu"
   },
@@ -147,7 +147,7 @@
     "code": "009",
     "name": "新田塚中央支店",
     "kana": "ニツタヅカチユウオウ",
-    "hiragana": "につたづかちゆうおう",
+    "hira": "につたづかちゆうおう",
     "hankana": "ﾆﾂﾀﾂﾞｶﾁﾕｳｵｳ",
     "roma": "nitsutazukachiyuuou"
   },
@@ -155,7 +155,7 @@
     "code": "020",
     "name": "堀の宮中央支店",
     "kana": "ホリノミヤチユウオウ",
-    "hiragana": "ほりのみやちゆうおう",
+    "hira": "ほりのみやちゆうおう",
     "hankana": "ﾎﾘﾉﾐﾔﾁﾕｳｵｳ",
     "roma": "horinomiyachiyuuou"
   },
@@ -163,7 +163,7 @@
     "code": "050",
     "name": "森田中央支店",
     "kana": "モリタチユウオウ",
-    "hiragana": "もりたちゆうおう",
+    "hira": "もりたちゆうおう",
     "hankana": "ﾓﾘﾀﾁﾕｳｵｳ",
     "roma": "moritachiyuuou"
   },
@@ -171,7 +171,7 @@
     "code": "074",
     "name": "春日中央支店",
     "kana": "カスガチユウオウ",
-    "hiragana": "かすがちゆうおう",
+    "hira": "かすがちゆうおう",
     "hankana": "ｶｽｶﾞﾁﾕｳｵｳ",
     "roma": "kasugachiyuuou"
   }

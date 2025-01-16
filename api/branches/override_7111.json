@@ -3,7 +3,7 @@
     "code": "005",
     "name": "北支所",
     "kana": "キタ",
-    "hiragana": "きた",
+    "hira": "きた",
     "hankana": "ｷﾀ",
     "roma": "kita"
   },
@@ -11,7 +11,7 @@
     "code": "013",
     "name": "東支所",
     "kana": "ヒガシ",
-    "hiragana": "ひがし",
+    "hira": "ひがし",
     "hankana": "ﾋｶﾞｼ",
     "roma": "higashi"
   }

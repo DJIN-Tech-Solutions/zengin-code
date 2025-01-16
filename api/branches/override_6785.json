@@ -3,7 +3,7 @@
     "code": "205",
     "name": "大野支店",
     "kana": "オオノ",
-    "hiragana": "おおの",
+    "hira": "おおの",
     "hankana": "ｵｵﾉ",
     "roma": "oono"
   },
@@ -11,7 +11,7 @@
     "code": "243",
     "name": "勝山支店",
     "kana": "カツヤマ",
-    "hiragana": "かつやま",
+    "hira": "かつやま",
     "hankana": "ｶﾂﾔﾏ",
     "roma": "katsuyama"
   },
@@ -19,7 +19,7 @@
     "code": "401",
     "name": "越前町支店",
     "kana": "エチゼンチヨウ",
-    "hiragana": "えちぜんちよう",
+    "hira": "えちぜんちよう",
     "hankana": "ｴﾁｾﾞﾝﾁﾖｳ",
     "roma": "echizenchiyou"
   },
@@ -27,7 +27,7 @@
     "code": "061",
     "name": "音楽堂前支店",
     "kana": "オンガクドウマエ",
-    "hiragana": "おんがくどうまえ",
+    "hira": "おんがくどうまえ",
     "hankana": "ｵﾝｶﾞｸﾄﾞｳﾏｴ",
     "roma": "ongakudoumae"
   }

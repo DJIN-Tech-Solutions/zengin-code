@@ -3,7 +3,7 @@
     "code": "003",
     "name": "西部支所",
     "kana": "セイブ",
-    "hiragana": "せいぶ",
+    "hira": "せいぶ",
     "hankana": "ｾｲﾌﾞ",
     "roma": "seibu"
   },
@@ -11,7 +11,7 @@
     "code": "006",
     "name": "南部支所",
     "kana": "ナンブ",
-    "hiragana": "なんぶ",
+    "hira": "なんぶ",
     "hankana": "ﾅﾝﾌﾞ",
     "roma": "nanbu"
   },
@@ -19,7 +19,7 @@
     "code": "017",
     "name": "東部支所",
     "kana": "トウブ",
-    "hiragana": "とうぶ",
+    "hira": "とうぶ",
     "hankana": "ﾄｳﾌﾞ",
     "roma": "toubu"
   }

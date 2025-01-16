@@ -3,7 +3,7 @@
     "code": "125",
     "name": "本店ウェルマネ１２５支店",
     "kana": "ホンテンウエルマネイチニゴ",
-    "hiragana": "ほんてんうえるまねいちにご",
+    "hira": "ほんてんうえるまねいちにご",
     "hankana": "ﾎﾝﾃﾝｳｴﾙﾏﾈｲﾁﾆｺﾞ",
     "roma": "honten'uerumaneichinigo"
   },
@@ -11,7 +11,7 @@
     "code": "165",
     "name": "本店営業１６５支店",
     "kana": "ホンテンエイギヨイチロクゴ",
-    "hiragana": "ほんてんえいぎよいちろくご",
+    "hira": "ほんてんえいぎよいちろくご",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｲﾁﾛｸｺﾞ",
     "roma": "honten'eigiyoichirokugo"
   },
@@ -19,7 +19,7 @@
     "code": "172",
     "name": "本店営業１７２支店",
     "kana": "ホンテンエイギヨウイチナナニ",
-    "hiragana": "ほんてんえいぎよういちななに",
+    "hira": "ほんてんえいぎよういちななに",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｲﾁﾅﾅﾆ",
     "roma": "honten'eigiyouichinanani"
   },
@@ -27,7 +27,7 @@
     "code": "207",
     "name": "本店営業２０７支店",
     "kana": "ホンテンエイギヨニゼロナナ",
-    "hiragana": "ほんてんえいぎよにぜろなな",
+    "hira": "ほんてんえいぎよにぜろなな",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖﾆｾﾞﾛﾅﾅ",
     "roma": "honten'eigiyonizeronana"
   },
@@ -35,7 +35,7 @@
     "code": "263",
     "name": "立川２６３支店",
     "kana": "タチカワニロクサン",
-    "hiragana": "たちかわにろくさん",
+    "hira": "たちかわにろくさん",
     "hankana": "ﾀﾁｶﾜﾆﾛｸｻﾝ",
     "roma": "tachikawanirokusan"
   },
@@ -43,7 +43,7 @@
     "code": "271",
     "name": "名古屋駅前２７１支店",
     "kana": "ナゴヤエキマエニナナイチ",
-    "hiragana": "なごやえきまえになないち",
+    "hira": "なごやえきまえになないち",
     "hankana": "ﾅｺﾞﾔｴｷﾏｴﾆﾅﾅｲﾁ",
     "roma": "nagoyaekimaeninanaichi"
   },
@@ -51,7 +51,7 @@
     "code": "571",
     "name": "名古屋ウェルマネ５７１支店",
     "kana": "ナゴヤウエルマネゴナナイチ",
-    "hiragana": "なごやうえるまねごなないち",
+    "hira": "なごやうえるまねごなないち",
     "hankana": "ﾅｺﾞﾔｳｴﾙﾏﾈｺﾞﾅﾅｲﾁ",
     "roma": "nagoyauerumanegonanaichi"
   },
@@ -59,7 +59,7 @@
     "code": "670",
     "name": "大阪ウェルマネ６７０支店",
     "kana": "オオサカウエルマネロクナナゼ",
-    "hiragana": "おおさかうえるまねろくななぜ",
+    "hira": "おおさかうえるまねろくななぜ",
     "hankana": "ｵｵｻｶｳｴﾙﾏﾈﾛｸﾅﾅｾﾞ",
     "roma": "oosakauerumanerokunanaze"
   },
@@ -67,7 +67,7 @@
     "code": "002",
     "name": "本店ウェルマネ０２支店",
     "kana": "ホンテンウエルマネゼロニ",
-    "hiragana": "ほんてんうえるまねぜろに",
+    "hira": "ほんてんうえるまねぜろに",
     "hankana": "ﾎﾝﾃﾝｳｴﾙﾏﾈｾﾞﾛﾆ",
     "roma": "honten'uerumanezeroni"
   },
@@ -75,7 +75,7 @@
     "code": "008",
     "name": "本店営業０８支店",
     "kana": "ホンテンエイギヨウゼロハチ",
-    "hiragana": "ほんてんえいぎようぜろはち",
+    "hira": "ほんてんえいぎようぜろはち",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｾﾞﾛﾊﾁ",
     "roma": "honten'eigiyouzerohachi"
   },
@@ -83,7 +83,7 @@
     "code": "018",
     "name": "立川１８支店",
     "kana": "タチカワイチハチ",
-    "hiragana": "たちかわいちはち",
+    "hira": "たちかわいちはち",
     "hankana": "ﾀﾁｶﾜｲﾁﾊﾁ",
     "roma": "tachikawaichihachi"
   },
@@ -91,7 +91,7 @@
     "code": "019",
     "name": "本店営業１９支店",
     "kana": "ホンテンエイギヨウイチキユウ",
-    "hiragana": "ほんてんえいぎよういちきゆう",
+    "hira": "ほんてんえいぎよういちきゆう",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｲﾁｷﾕｳ",
     "roma": "honten'eigiyouichikiyuu"
   },
@@ -99,7 +99,7 @@
     "code": "023",
     "name": "本店営業２３支店",
     "kana": "ホンテンエイギヨウニサン",
-    "hiragana": "ほんてんえいぎようにさん",
+    "hira": "ほんてんえいぎようにさん",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳﾆｻﾝ",
     "roma": "honten'eigiyounisan"
   },
@@ -107,7 +107,7 @@
     "code": "025",
     "name": "本店営業２５支店",
     "kana": "ホンテンエイギヨウニゴ",
-    "hiragana": "ほんてんえいぎようにご",
+    "hira": "ほんてんえいぎようにご",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳﾆｺﾞ",
     "roma": "honten'eigiyounigo"
   },
@@ -115,7 +115,7 @@
     "code": "030",
     "name": "本店営業３０支店",
     "kana": "ホンテンエイギヨウサンゼロ",
-    "hiragana": "ほんてんえいぎようさんぜろ",
+    "hira": "ほんてんえいぎようさんぜろ",
     "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｻﾝｾﾞﾛ",
     "roma": "honten'eigiyousanzero"
   }

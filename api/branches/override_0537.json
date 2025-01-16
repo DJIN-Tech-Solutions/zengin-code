@@ -1,0 +1,178 @@
+{
+  "110": {
+    "code": "110",
+    "name": "春江中央支店",
+    "kana": "ハルエチユウオウ",
+    "hiragana": "はるえちゆうおう",
+    "hankana": "ﾊﾙｴﾁﾕｳｵｳ",
+    "roma": "haruechiyuuou"
+  },
+  "120": {
+    "code": "120",
+    "name": "三国中央支店",
+    "kana": "ミクニチユウオウ",
+    "hiragana": "みくにちゆうおう",
+    "hankana": "ﾐｸﾆﾁﾕｳｵｳ",
+    "roma": "mikunichiyuuou"
+  },
+  "130": {
+    "code": "130",
+    "name": "金津中央支店",
+    "kana": "カナヅチユウオウ",
+    "hiragana": "かなづちゆうおう",
+    "hankana": "ｶﾅﾂﾞﾁﾕｳｵｳ",
+    "roma": "kanazuchiyuuou"
+  },
+  "140": {
+    "code": "140",
+    "name": "丸岡中央支店",
+    "kana": "マルオカチユウオウ",
+    "hiragana": "まるおかちゆうおう",
+    "hankana": "ﾏﾙｵｶﾁﾕｳｵｳ",
+    "roma": "maruokachiyuuou"
+  },
+  "150": {
+    "code": "150",
+    "name": "松岡中央支店",
+    "kana": "マツオカチユウオウ",
+    "hiragana": "まつおかちゆうおう",
+    "hankana": "ﾏﾂｵｶﾁﾕｳｵｳ",
+    "roma": "matsuokachiyuuou"
+  },
+  "160": {
+    "code": "160",
+    "name": "勝山中央支店",
+    "kana": "カツヤマチユウオウ",
+    "hiragana": "かつやまちゆうおう",
+    "hankana": "ｶﾂﾔﾏﾁﾕｳｵｳ",
+    "roma": "katsuyamachiyuuou"
+  },
+  "170": {
+    "code": "170",
+    "name": "大野中央支店",
+    "kana": "オオノチユウオウ",
+    "hiragana": "おおのちゆうおう",
+    "hankana": "ｵｵﾉﾁﾕｳｵｳ",
+    "roma": "oonochiyuuou"
+  },
+  "210": {
+    "code": "210",
+    "name": "鯖江中央支店",
+    "kana": "サバエチユウオウ",
+    "hiragana": "さばえちゆうおう",
+    "hankana": "ｻﾊﾞｴﾁﾕｳｵｳ",
+    "roma": "sabaechiyuuou"
+  },
+  "230": {
+    "code": "230",
+    "name": "武生中央支店",
+    "kana": "タケフチユウオウ",
+    "hiragana": "たけふちゆうおう",
+    "hankana": "ﾀｹﾌﾁﾕｳｵｳ",
+    "roma": "takefuchiyuuou"
+  },
+  "240": {
+    "code": "240",
+    "name": "越前町中央支店",
+    "kana": "エチゼンチヨウチユウオウ",
+    "hiragana": "えちぜんちようちゆうおう",
+    "hankana": "ｴﾁｾﾞﾝﾁﾖｳﾁﾕｳｵｳ",
+    "roma": "echizenchiyouchiyuuou"
+  },
+  "310": {
+    "code": "310",
+    "name": "敦賀中央支店",
+    "kana": "ツルガチユウオウ",
+    "hiragana": "つるがちゆうおう",
+    "hankana": "ﾂﾙｶﾞﾁﾕｳｵｳ",
+    "roma": "tsurugachiyuuou"
+  },
+  "320": {
+    "code": "320",
+    "name": "美浜中央支店",
+    "kana": "ミハマチユウオウ",
+    "hiragana": "みはまちゆうおう",
+    "hankana": "ﾐﾊﾏﾁﾕｳｵｳ",
+    "roma": "mihamachiyuuou"
+  },
+  "350": {
+    "code": "350",
+    "name": "小浜中央支店",
+    "kana": "オバマチユウオウ",
+    "hiragana": "おばまちゆうおう",
+    "hankana": "ｵﾊﾞﾏﾁﾕｳｵｳ",
+    "roma": "obamachiyuuou"
+  },
+  "360": {
+    "code": "360",
+    "name": "高浜中央支店",
+    "kana": "タカハマチユウオウ",
+    "hiragana": "たかはまちゆうおう",
+    "hankana": "ﾀｶﾊﾏﾁﾕｳｵｳ",
+    "roma": "takahamachiyuuou"
+  },
+  "410": {
+    "code": "410",
+    "name": "小松中央支店",
+    "kana": "コマツチユウオウ",
+    "hiragana": "こまつちゆうおう",
+    "hankana": "ｺﾏﾂﾁﾕｳｵｳ",
+    "roma": "komatsuchiyuuou"
+  },
+  "510": {
+    "code": "510",
+    "name": "舞鶴中央支店",
+    "kana": "マイヅルチユウオウ",
+    "hiragana": "まいづるちゆうおう",
+    "hankana": "ﾏｲﾂﾞﾙﾁﾕｳｵｳ",
+    "roma": "maizuruchiyuuou"
+  },
+  "530": {
+    "code": "530",
+    "name": "京都中央支店",
+    "kana": "キヨウトチユウオウ",
+    "hiragana": "きようとちゆうおう",
+    "hankana": "ｷﾖｳﾄﾁﾕｳｵｳ",
+    "roma": "kiyoutochiyuuou"
+  },
+  "002": {
+    "code": "002",
+    "name": "第二営業部",
+    "kana": "ダイニエイギヨウブ",
+    "hiragana": "だいにえいぎようぶ",
+    "hankana": "ﾀﾞｲﾆｴｲｷﾞﾖｳﾌﾞ",
+    "roma": "dainieigiyoubu"
+  },
+  "009": {
+    "code": "009",
+    "name": "新田塚中央支店",
+    "kana": "ニツタヅカチユウオウ",
+    "hiragana": "につたづかちゆうおう",
+    "hankana": "ﾆﾂﾀﾂﾞｶﾁﾕｳｵｳ",
+    "roma": "nitsutazukachiyuuou"
+  },
+  "020": {
+    "code": "020",
+    "name": "堀の宮中央支店",
+    "kana": "ホリノミヤチユウオウ",
+    "hiragana": "ほりのみやちゆうおう",
+    "hankana": "ﾎﾘﾉﾐﾔﾁﾕｳｵｳ",
+    "roma": "horinomiyachiyuuou"
+  },
+  "050": {
+    "code": "050",
+    "name": "森田中央支店",
+    "kana": "モリタチユウオウ",
+    "hiragana": "もりたちゆうおう",
+    "hankana": "ﾓﾘﾀﾁﾕｳｵｳ",
+    "roma": "moritachiyuuou"
+  },
+  "074": {
+    "code": "074",
+    "name": "春日中央支店",
+    "kana": "カスガチユウオウ",
+    "hiragana": "かすがちゆうおう",
+    "hankana": "ｶｽｶﾞﾁﾕｳｵｳ",
+    "roma": "kasugachiyuuou"
+  }
+}

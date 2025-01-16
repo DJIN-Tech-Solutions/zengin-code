@@ -1,0 +1,26 @@
+{
+  "305": {
+    "code": "305",
+    "name": "なんごく南支所",
+    "kana": "ナンゴクミナミ",
+    "hiragana": "なんごくみなみ",
+    "hankana": "ﾅﾝｺﾞｸﾐﾅﾐ",
+    "roma": "nangokuminami"
+  },
+  "308": {
+    "code": "308",
+    "name": "なんごく北支所",
+    "kana": "ナンゴクキタ",
+    "hiragana": "なんごくきた",
+    "hankana": "ﾅﾝｺﾞｸｷﾀ",
+    "roma": "nangokukita"
+  },
+  "315": {
+    "code": "315",
+    "name": "おおとよ支所",
+    "kana": "オオトヨ",
+    "hiragana": "おおとよ",
+    "hankana": "ｵｵﾄﾖ",
+    "roma": "ootoyo"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "125": {
+    "code": "125",
+    "name": "本店ウェルマネ１２５支店",
+    "kana": "ホンテンウエルマネイチニゴ",
+    "hiragana": "ほんてんうえるまねいちにご",
+    "hankana": "ﾎﾝﾃﾝｳｴﾙﾏﾈｲﾁﾆｺﾞ",
+    "roma": "honten'uerumaneichinigo"
+  },
+  "165": {
+    "code": "165",
+    "name": "本店営業１６５支店",
+    "kana": "ホンテンエイギヨイチロクゴ",
+    "hiragana": "ほんてんえいぎよいちろくご",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｲﾁﾛｸｺﾞ",
+    "roma": "honten'eigiyoichirokugo"
+  },
+  "172": {
+    "code": "172",
+    "name": "本店営業１７２支店",
+    "kana": "ホンテンエイギヨウイチナナニ",
+    "hiragana": "ほんてんえいぎよういちななに",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｲﾁﾅﾅﾆ",
+    "roma": "honten'eigiyouichinanani"
+  },
+  "207": {
+    "code": "207",
+    "name": "本店営業２０７支店",
+    "kana": "ホンテンエイギヨニゼロナナ",
+    "hiragana": "ほんてんえいぎよにぜろなな",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖﾆｾﾞﾛﾅﾅ",
+    "roma": "honten'eigiyonizeronana"
+  },
+  "263": {
+    "code": "263",
+    "name": "立川２６３支店",
+    "kana": "タチカワニロクサン",
+    "hiragana": "たちかわにろくさん",
+    "hankana": "ﾀﾁｶﾜﾆﾛｸｻﾝ",
+    "roma": "tachikawanirokusan"
+  },
+  "271": {
+    "code": "271",
+    "name": "名古屋駅前２７１支店",
+    "kana": "ナゴヤエキマエニナナイチ",
+    "hiragana": "なごやえきまえになないち",
+    "hankana": "ﾅｺﾞﾔｴｷﾏｴﾆﾅﾅｲﾁ",
+    "roma": "nagoyaekimaeninanaichi"
+  },
+  "571": {
+    "code": "571",
+    "name": "名古屋ウェルマネ５７１支店",
+    "kana": "ナゴヤウエルマネゴナナイチ",
+    "hiragana": "なごやうえるまねごなないち",
+    "hankana": "ﾅｺﾞﾔｳｴﾙﾏﾈｺﾞﾅﾅｲﾁ",
+    "roma": "nagoyauerumanegonanaichi"
+  },
+  "670": {
+    "code": "670",
+    "name": "大阪ウェルマネ６７０支店",
+    "kana": "オオサカウエルマネロクナナゼ",
+    "hiragana": "おおさかうえるまねろくななぜ",
+    "hankana": "ｵｵｻｶｳｴﾙﾏﾈﾛｸﾅﾅｾﾞ",
+    "roma": "oosakauerumanerokunanaze"
+  },
+  "002": {
+    "code": "002",
+    "name": "本店ウェルマネ０２支店",
+    "kana": "ホンテンウエルマネゼロニ",
+    "hiragana": "ほんてんうえるまねぜろに",
+    "hankana": "ﾎﾝﾃﾝｳｴﾙﾏﾈｾﾞﾛﾆ",
+    "roma": "honten'uerumanezeroni"
+  },
+  "008": {
+    "code": "008",
+    "name": "本店営業０８支店",
+    "kana": "ホンテンエイギヨウゼロハチ",
+    "hiragana": "ほんてんえいぎようぜろはち",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｾﾞﾛﾊﾁ",
+    "roma": "honten'eigiyouzerohachi"
+  },
+  "018": {
+    "code": "018",
+    "name": "立川１８支店",
+    "kana": "タチカワイチハチ",
+    "hiragana": "たちかわいちはち",
+    "hankana": "ﾀﾁｶﾜｲﾁﾊﾁ",
+    "roma": "tachikawaichihachi"
+  },
+  "019": {
+    "code": "019",
+    "name": "本店営業１９支店",
+    "kana": "ホンテンエイギヨウイチキユウ",
+    "hiragana": "ほんてんえいぎよういちきゆう",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｲﾁｷﾕｳ",
+    "roma": "honten'eigiyouichikiyuu"
+  },
+  "023": {
+    "code": "023",
+    "name": "本店営業２３支店",
+    "kana": "ホンテンエイギヨウニサン",
+    "hiragana": "ほんてんえいぎようにさん",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳﾆｻﾝ",
+    "roma": "honten'eigiyounisan"
+  },
+  "025": {
+    "code": "025",
+    "name": "本店営業２５支店",
+    "kana": "ホンテンエイギヨウニゴ",
+    "hiragana": "ほんてんえいぎようにご",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳﾆｺﾞ",
+    "roma": "honten'eigiyounigo"
+  },
+  "030": {
+    "code": "030",
+    "name": "本店営業３０支店",
+    "kana": "ホンテンエイギヨウサンゼロ",
+    "hiragana": "ほんてんえいぎようさんぜろ",
+    "hankana": "ﾎﾝﾃﾝｴｲｷﾞﾖｳｻﾝｾﾞﾛ",
+    "roma": "honten'eigiyousanzero"
+  }
+}

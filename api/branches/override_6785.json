@@ -1,0 +1,34 @@
+{
+  "205": {
+    "code": "205",
+    "name": "大野支店",
+    "kana": "オオノ",
+    "hiragana": "おおの",
+    "hankana": "ｵｵﾉ",
+    "roma": "oono"
+  },
+  "243": {
+    "code": "243",
+    "name": "勝山支店",
+    "kana": "カツヤマ",
+    "hiragana": "かつやま",
+    "hankana": "ｶﾂﾔﾏ",
+    "roma": "katsuyama"
+  },
+  "401": {
+    "code": "401",
+    "name": "越前町支店",
+    "kana": "エチゼンチヨウ",
+    "hiragana": "えちぜんちよう",
+    "hankana": "ｴﾁｾﾞﾝﾁﾖｳ",
+    "roma": "echizenchiyou"
+  },
+  "061": {
+    "code": "061",
+    "name": "音楽堂前支店",
+    "kana": "オンガクドウマエ",
+    "hiragana": "おんがくどうまえ",
+    "hankana": "ｵﾝｶﾞｸﾄﾞｳﾏｴ",
+    "roma": "ongakudoumae"
+  }
+}

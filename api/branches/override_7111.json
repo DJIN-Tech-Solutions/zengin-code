@@ -1,0 +1,18 @@
+{
+  "005": {
+    "code": "005",
+    "name": "北支所",
+    "kana": "キタ",
+    "hiragana": "きた",
+    "hankana": "ｷﾀ",
+    "roma": "kita"
+  },
+  "013": {
+    "code": "013",
+    "name": "東支所",
+    "kana": "ヒガシ",
+    "hiragana": "ひがし",
+    "hankana": "ﾋｶﾞｼ",
+    "roma": "higashi"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "025": {
+    "code": "025",
+    "name": "飯坂支店",
+    "kana": "イイザカ",
+    "hiragana": "いいざか",
+    "hankana": "ｲｲｻﾞｶ",
+    "roma": "iizaka"
+  },
+  "042": {
+    "code": "042",
+    "name": "保原支店",
+    "kana": "ホバラ",
+    "hiragana": "ほばら",
+    "hankana": "ﾎﾊﾞﾗ",
+    "roma": "hobara"
+  },
+  "047": {
+    "code": "047",
+    "name": "桑折支店",
+    "kana": "コオリ",
+    "hiragana": "こおり",
+    "hankana": "ｺｵﾘ",
+    "roma": "koori"
+  },
+  "051": {
+    "code": "051",
+    "name": "国見支店",
+    "kana": "クニミ",
+    "hiragana": "くにみ",
+    "hankana": "ｸﾆﾐ",
+    "roma": "kunimi"
+  },
+  "056": {
+    "code": "056",
+    "name": "伊達支店",
+    "kana": "ダテ",
+    "hiragana": "だて",
+    "hankana": "ﾀﾞﾃ",
+    "roma": "date"
+  },
+  "058": {
+    "code": "058",
+    "name": "霊山掛田支店",
+    "kana": "リヨウゼンカケダ",
+    "hiragana": "りようぜんかけだ",
+    "hankana": "ﾘﾖｳｾﾞﾝｶｹﾀﾞ",
+    "roma": "riyouzenkakeda"
+  },
+  "082": {
+    "code": "082",
+    "name": "鹿島支店",
+    "kana": "カシマ",
+    "hiragana": "かしま",
+    "hankana": "ｶｼﾏ",
+    "roma": "kashima"
+  },
+  "084": {
+    "code": "084",
+    "name": "新地支店",
+    "kana": "シンチ",
+    "hiragana": "しんち",
+    "hankana": "ｼﾝﾁ",
+    "roma": "shinchi"
+  },
+  "085": {
+    "code": "085",
+    "name": "相馬中村支店",
+    "kana": "ソウマナカムラ",
+    "hiragana": "そうまなかむら",
+    "hankana": "ｿｳﾏﾅｶﾑﾗ",
+    "roma": "soumanakamura"
+  },
+  "087": {
+    "code": "087",
+    "name": "原町支店",
+    "kana": "ハラマチ",
+    "hiragana": "はらまち",
+    "hankana": "ﾊﾗﾏﾁ",
+    "roma": "haramachi"
+  },
+  "089": {
+    "code": "089",
+    "name": "小高支店",
+    "kana": "オダカ",
+    "hiragana": "おだか",
+    "hankana": "ｵﾀﾞｶ",
+    "roma": "odaka"
+  },
+  "091": {
+    "code": "091",
+    "name": "飯舘支店",
+    "kana": "イイタテ",
+    "hiragana": "いいたて",
+    "hankana": "ｲｲﾀﾃ",
+    "roma": "iitate"
+  }
+}

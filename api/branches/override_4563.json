@@ -1,0 +1,34 @@
+{
+  "003": {
+    "code": "003",
+    "name": "高崎南支店",
+    "kana": "タカサキミナミ",
+    "hiragana": "たかさきみなみ",
+    "hankana": "ﾀｶｻｷﾐﾅﾐ",
+    "roma": "takasakiminami"
+  },
+  "004": {
+    "code": "004",
+    "name": "高崎北支店",
+    "kana": "タカサキキタ",
+    "hiragana": "たかさききた",
+    "hankana": "ﾀｶｻｷｷﾀ",
+    "roma": "takasakikita"
+  },
+  "005": {
+    "code": "005",
+    "name": "高崎中央支店",
+    "kana": "タカサキチユウオウ",
+    "hiragana": "たかさきちゆうおう",
+    "hankana": "ﾀｶｻｷﾁﾕｳｵｳ",
+    "roma": "takasakichiyuuou"
+  },
+  "013": {
+    "code": "013",
+    "name": "高崎東支店",
+    "kana": "タカサキヒガシ",
+    "hiragana": "たかさきひがし",
+    "hankana": "ﾀｶｻｷﾋｶﾞｼ",
+    "roma": "takasakihigashi"
+  }
+}

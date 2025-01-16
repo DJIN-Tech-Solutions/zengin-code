@@ -1,0 +1,18 @@
+{
+  "110": {
+    "code": "110",
+    "name": "倉敷南支店",
+    "kana": "クラシキミナミ",
+    "hiragana": "くらしきみなみ",
+    "hankana": "ｸﾗｼｷﾐﾅﾐ",
+    "roma": "kurashikiminami"
+  },
+  "113": {
+    "code": "113",
+    "name": "倉敷東支店",
+    "kana": "クラシキヒガシ",
+    "hiragana": "くらしきひがし",
+    "hankana": "ｸﾗｼｷﾋｶﾞｼ",
+    "roma": "kurashikihigashi"
+  }
+}

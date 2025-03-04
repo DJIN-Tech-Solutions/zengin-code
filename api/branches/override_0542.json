@@ -1,0 +1,42 @@
+{
+  "281": {
+    "code": "281",
+    "name": "東海中央",
+    "kana": "トウカイチユウオウ",
+    "hira": "とうかいちゅうおう",
+    "hankana": "ﾄｳｶｲﾁﾕｳｵｳ",
+    "roma": "toukaichiyuuou"
+  },
+  "370": {
+    "code": "370",
+    "name": "稲沢中央",
+    "kana": "イナザワチュウオウ",
+    "hira": "いなざわちゅうおう",
+    "hankana": "ｲﾅｻﾞﾜﾁﾕｳｵｳ",
+    "roma": "inazawachuuo"
+  },
+  "371": {
+    "code": "371",
+    "name": "津島中央",
+    "kana": "ツシマチユウオウ",
+    "hira": "つしまちゅうおう",
+    "hankana": "ﾂｼﾏﾁﾕｳｵｳ",
+    "roma": "tsushimachiyuuou"
+  },
+  "379": {
+    "code": "379",
+    "name": "大府中央",
+    "kana": "オオブチユウオウ",
+    "hira": "おおぶちゆうおう",
+    "hankana": "ｵｵﾌﾞﾁﾕｳｵｳ",
+    "roma": "oobuchiyuuou"
+  },
+  "386": {
+    "code": "386",
+    "name": "長久手中央",
+    "kana": "ナガクテチュウオウ",
+    "hira": "ながくてちゅうおう",
+    "hankana": "ﾅｶﾞｸﾃﾁﾕｳｵｳ",
+    "roma": "nagakutechuuou"
+  }
+}
